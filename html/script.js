@@ -1,0 +1,1 @@
+location.href = "https://cuahangquanaocuaan.herokuapp.com/html/ThongTinAo.html"
