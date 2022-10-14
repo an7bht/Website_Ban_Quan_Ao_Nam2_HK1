@@ -1,1 +1,1 @@
-location.href = "https://cuahangquanaocuaan.herokuapp.com/html/ThongTinAo.html"
+location.href = "https://vov.vn/chinh-tri/thu-tuong-chu-tich-quoc-hoi-du-hoi-nghi-chuan-bi-cho-ky-hop-thu-4-quoc-hoi-khoa-15-post977334.vov"
